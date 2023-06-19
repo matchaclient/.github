@@ -1,2 +1,2 @@
-# .github
-Matcha's Public Organization Profile
+# matcha
+A new vision for a revolutionary new product.
